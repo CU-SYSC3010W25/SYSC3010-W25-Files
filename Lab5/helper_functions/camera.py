@@ -5,10 +5,6 @@ def get_camera():
 # displays camera preview for the indicated amount of time
 def camera_preview(camera, preveiw_time):
 
-# Takes in camera instance and degrees
-# roatates camera to the indicated degree
-def rotate_camera(camera,degrees):
-
 # Takes in camera instance, output image location, countdown time and preview Boolean
 # If preview is true, preview is started
 # The code waits the indicated countdown time before the image is taken and stored in the indicated location
